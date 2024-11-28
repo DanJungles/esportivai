@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d6ff6a54-e5da-4075-8c2a-0e67d383a231"
+      }
+    },
+    "owner": "danjungles"
   }
 }
